@@ -20,5 +20,7 @@ English:
 To install the servers you will also need RediBungee which is given in the RedisBungee documentation. To install this server you must first have a proxy and put the api and install the server system on demand and put redisbungee after that you can create a hub server that you list in the api, and then you can install the other servers still with the api and software. Attention you need a mysql base and redis servers to start a server.
 
 Email: poluxxx1@laposte.net
+
 Discord: FliserPolux#8457
+
 Donation: paypal.me/fliserPolux
